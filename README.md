@@ -9,6 +9,6 @@ Kafka stream Consumer
 - The KTable API
 - The Processor API 
 ### Part 3 Adminstering Kafka Streams
-- Analytics on read
-- Analytics on write
+- Monitoring and Performance
+- Testing A kafka Stream Application
 ### Part 3 Advance Concept with Kafka Streams
