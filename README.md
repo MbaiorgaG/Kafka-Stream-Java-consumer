@@ -7,4 +7,8 @@ Kafka stream Consumer
 - Event Stream Processing with Amazone kinesis
 - Statful State Processing
 ### Part 2 Data Engineering with Streams
+- Schemas 
+- Achiving events
+- Railway-oriented processing
+- Commands 
 ### Part 3 Event Analytics
