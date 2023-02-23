@@ -1,11 +1,8 @@
 # Kafka-Stream-Java-consumer
 Kafka stream Consumer 
 ### Part 1 Getting Started with Kafka Streams
-- Introduction to event streams 
-- The unifiled Logs
-- Event Stream processing with Apache Kafka
-- Event Stream Processing with Amazone kinesis
-- Statful State Processing
+- Welcome Kafka Streams 
+- Kafkfa Quickly
 ### Part 2 Kafka Stream Development
 - Schemas 
 - Achiving events
