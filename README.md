@@ -12,3 +12,5 @@ Kafka stream Consumer
 - Railway-oriented processing
 - Commands 
 ### Part 3 Event Analytics
+- Analytics on read
+- Analytics on write
