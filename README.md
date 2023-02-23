@@ -4,10 +4,10 @@ Kafka stream Consumer
 - Welcome Kafka Streams 
 - Kafkfa Quickly
 ### Part 2 Kafka Stream Development
-- Schemas 
-- Achiving events
-- Railway-oriented processing
-- Commands 
+- Developing Kafka Streams  
+- Streams and State
+- The KTable API
+- The Processor API 
 ### Part 3 Adminstering Kafka Streams
 - Analytics on read
 - Analytics on write
